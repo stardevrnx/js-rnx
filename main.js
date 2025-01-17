@@ -1,5 +1,5 @@
 function verify() {
-    vel = window.document.getElementById('#vel')
+    /*vel = window.document.getElementById('#vel')
 
     velocity = Number(vel.value)
 
@@ -7,5 +7,7 @@ function verify() {
         window.document.write("PARABENS!!!! VOCE FOI MULTADOOOOOO!!!!")
     } else {
         window.document.write("PARABEEEEEEENS!!! VOCE ESTA NA VELOCIDADE CORRETAAAAAA!!!")
-    }
+    }*/
+
+        window.alert('foi em')
 }
