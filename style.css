@@ -1,35 +1,3 @@
 body {
     background: black;
 }
-
-.title {
-    color: white;
-    font: normal 20pt 'Arial';
-}
-
-.dt {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 330px;
-}
-
-.dv {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 320px;
-}
-
-.res {
-    color: white;
-    font: normal 20pt 'Arial';
-}
-
-.res-title {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 400;
-    color: white;
-}
