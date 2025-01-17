@@ -1,6 +1,7 @@
 function dataVerify() {
     var agr = new Date()
     var diaSe = agr.getDay()
+    var day = window.document.querySelector(p.day)
 
     switch(diaSe) {
         case 0:
