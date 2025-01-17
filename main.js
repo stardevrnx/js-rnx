@@ -15,5 +15,17 @@ function dataVerify() {
         case 3:
             window.document.write('quarta')
             break
+        case 4:
+            window.document.write('quinta')
+            break
+        case 5:
+            window.document.write('sexta')
+            break
+        case 6:
+            window.document.write('sabado')
+            break
+        default:
+            window.document.write('[ERRO] dia invalido')
+
     }
 }
