@@ -9,5 +9,5 @@ function verify() {
         window.document.write("PARABEEEEEEENS!!! VOCE ESTA NA VELOCIDADE CORRETAAAAAA!!!")
     }*/
 
-        window.alert('foi em')
+    window.alert('foi em')
 }
