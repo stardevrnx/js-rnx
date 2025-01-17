@@ -1,12 +1,8 @@
-* {
-    --text-color: rgb(255, 255, 255);
-}
-
 body {
     background: black;
 }
 
 .title {
     font: normal 20pt 'Arial';
-    color: var(--text-color);
+    color: white;
 }
