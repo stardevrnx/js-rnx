@@ -4,11 +4,19 @@ body {
 
 .title {
     color: white;
-    font: normal 30pt 'Arial';
+    font: normal 20pt 'Arial';
 }
 
 .dt {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 30px;
+}
+
+.dv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
 }
