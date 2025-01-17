@@ -21,6 +21,11 @@ body {
     margin-top: 320px;
 }
 
+.res-title {
+    color: white;
+    font: normal 20pt 'Arial';
+}
+
 .res {
     display: flex;
     align-items: center;
