@@ -5,7 +5,7 @@ function verify() {
 
     if (velocity < 30) {
         window.document.write("PARABENS!!!! VOCE FOI MULTADOOOOOO!!!!")
-    } else if (velocity > 30){
+    } else if (velocity > 30) {
         window.document.write("PARABEEEEEEENS!!! VOCE ESTA NA VELOCIDADE CORRETAAAAAA!!!")
     }
 
