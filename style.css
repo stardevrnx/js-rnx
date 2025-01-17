@@ -2,13 +2,6 @@ body {
     background: black;
 }
 
-.components {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 150;
-}
-
 .title {
     font: normal 20pt 'Arial';
     color: white;
