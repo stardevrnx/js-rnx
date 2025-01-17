@@ -26,6 +26,7 @@ function dataVerify() {
             break
         default:
             window.document.write('[ERRO] dia invalido')
+            break
 
     }
 }
