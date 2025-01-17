@@ -1,5 +1,5 @@
 body {
-    background: rgb(253, 0, 0);
+    background: black;
 }
 
 .title {
@@ -18,5 +18,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 330px;
+    margin-top: 320px;
+}
+
+.res {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 400;
+    color: white;
 }

@@ -1,0 +1,12 @@
+var speed = window.document.getElementById('vel')
+var res = window.document.getElementsByClassName('res')
+
+velocity = Number(speed)
+
+if (speed < 30) {
+    res.innerHTML('a sua velocidade e: ' + speed + 'VOCE FOI MULTADO!!!')
+    res.color = 'red'
+} else if  (speed > 30) {
+    res.innerHTML('A tua velocidade e: ' + speed + 'VOCE PODE PASSAR!!!')
+    res.color = 'green'
+}
