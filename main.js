@@ -1,3 +1,5 @@
+window.document.write('crlhoooooooooooooooooo')
+
 function verify() {
     vel = window.document.getElementById('#vel')
 
