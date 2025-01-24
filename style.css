@@ -8,7 +8,11 @@ header {
 }
 
 section{
-
+    background: white;
+    padding: 15px;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
 }
 
 footer {
