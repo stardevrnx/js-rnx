@@ -1,1 +1,5 @@
-var c = 300
+var c = 1
+while (c <= 10) {
+    c ++
+    console.log("passo: " + c)
+}
